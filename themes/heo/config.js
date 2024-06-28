@@ -18,8 +18,8 @@ const CONFIG = {
     HEO_HERO_TITLE_1: '分享编程',
     HEO_HERO_TITLE_2: '与思维认知',
     HEO_HERO_TITLE_3: 'TANGLY1024.COM',
-    HEO_HERO_TITLE_4: '新版上线',
-    HEO_HERO_TITLE_5: 'NotionNext4.0 轻松定制主题',
+    HEO_HERO_TITLE_4: '刚刚上线',
+    HEO_HERO_TITLE_5: '欢迎来到我的个人主页',
     // HEO_HERO_TITLE_LINK: 'https://tangly1024.com',
 
     // 英雄区显示三个置顶分类
@@ -49,7 +49,7 @@ const CONFIG = {
     HEO_INFO_CARD_URL2: 'https://github.com/wywolf/',
     HEO_INFO_CARD_ICON2: 'fab fa-github',
     HEO_INFO_CARD_URL3: 'https://leoking.xlog.app/',
-    HEO_INFO_CARD_TEXT3: '了解更多',
+    HEO_INFO_CARD_TEXT3: 'xlog',
 
     // 用户技能图标
     HEO_GROUP_ICONS: [
